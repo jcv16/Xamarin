@@ -13,11 +13,9 @@ namespace GoogleMapsSample
 	{
 		UIWindow window;
 
-		const string MAPS_API_KEY = "AIzaSyABm7QTVd0ldOUmRQdn5pYSKC1-vXQMi6E";
-
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
 		{
-			MapServices.ProvideAPIKey (MAPS_API_KEY);
+			MapServices.ProvideAPIKey ("AIzaSyA6_ZQXIeU9TAlsXGDHuLZJ_6KhBJBR5eY");
 
 			window = new UIWindow (UIScreen.MainScreen.Bounds) {
 				RootViewController = new MapViewController ()

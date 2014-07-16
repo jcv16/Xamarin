@@ -1,0 +1,11 @@
+C:\Users\j\Documents\GitHub\Google Map API\samples\GoogleMapsSample\bin\iPhoneSimulator\Debug\GoogleMapsSample.exe
+C:\Users\j\Documents\GitHub\Google Map API\samples\GoogleMapsSample\bin\iPhoneSimulator\Debug\GoogleMapsSample.pdb
+C:\Users\j\Documents\GitHub\Google Map API\samples\GoogleMapsSample\bin\iPhoneSimulator\Debug\GoogleMaps.dll
+C:\Users\j\Documents\GitHub\Google Map API\samples\GoogleMapsSample\obj\iPhoneSimulator\Debug\GoogleMapsSample.exe
+C:\Users\j\Documents\GitHub\Google Map API\samples\GoogleMapsSample\obj\iPhoneSimulator\Debug\GoogleMapsSample.pdb
+C:\Users\j\Documents\GitHub\Google Map API\samples\GoogleMapsSample\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\j\Documents\GitHub\Xamarin\Google Map API\samples\GoogleMapsSample\bin\iPhoneSimulator\Debug\GoogleMapsSample.exe
+C:\Users\j\Documents\GitHub\Xamarin\Google Map API\samples\GoogleMapsSample\bin\iPhoneSimulator\Debug\GoogleMapsSample.pdb
+C:\Users\j\Documents\GitHub\Xamarin\Google Map API\samples\GoogleMapsSample\bin\iPhoneSimulator\Debug\GoogleMaps.dll
+C:\Users\j\Documents\GitHub\Xamarin\Google Map API\samples\GoogleMapsSample\obj\iPhoneSimulator\Debug\GoogleMapsSample.exe
+C:\Users\j\Documents\GitHub\Xamarin\Google Map API\samples\GoogleMapsSample\obj\iPhoneSimulator\Debug\GoogleMapsSample.pdb

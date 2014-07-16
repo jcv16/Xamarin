@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.1" />
   <MonoDevelop.Ide.Workbench ActiveDocument="GoogleMapsAdvSample/Samples/Map Demos/BasicMapViewController.cs">
     <Files>
-      <File FileName="GoogleMapsAdvSample/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="GoogleMapsAdvSample/AppDelegate.cs" Line="46" Column="1" />
       <File FileName="GoogleMapsAdvSample/Info.plist" />
       <File FileName="GoogleMapsAdvSample/Samples/Map Demos/MyLocationViewController.cs" Line="1" Column="1" />
       <File FileName="GoogleMapsAdvSample/Main.cs" Line="1" Column="1" />

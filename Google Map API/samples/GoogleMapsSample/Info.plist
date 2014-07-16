@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>UIDeviceFamily</key>
-	<array/>
+	<array>
+		<integer>1</integer>
+	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -13,8 +15,14 @@
 	<key>MinimumOSVersion</key>
 	<string>5.1</string>
 	<key>CFBundleDisplayName</key>
-	<string>GoogleMapExperiment</string>
+	<string>Property_Pin</string>
 	<key>CFBundleIdentifier</key>
-	<string>GoogleMapExperiment</string>
+	<string>Property_Pin</string>
+	<key>CFBundleShortVersionString</key>
+	<string></string>
+	<key>CFBundleVersion</key>
+	<string></string>
+	<key>NSMainNibFile</key>
+	<string></string>
 </dict>
 </plist>
